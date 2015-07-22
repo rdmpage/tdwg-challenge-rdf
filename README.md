@@ -43,8 +43,12 @@ OPTIONAL
 ORDER BY ASC(?status)
 ```
 
+There is a live version of this dataset at http://dydra.com/rdmpage/tdwg-challenge
+
+Below is the output of this SPARQL query:
+
 |?name|?status|?doi|?date|?thumbnail|
-|-----|-------|----|-----|----------|
+|——|———|——|——|—————|
 |Churamiti maridadi|CR|http://dx.doi.org/10.1080/21564574.2002.9635467|2002||
 |Phrynopus kauneorum|CR|http://dx.doi.org/10.2307/1565993|2002||
 |Leptodactylus silvanimbus|CR|http://dx.doi.org/10.2307/1563691|1980-10-31Z||

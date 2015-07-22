@@ -44,7 +44,7 @@ ORDER BY ASC(?status)
 ```
 
 |?name|?status|?doi|?date|?thumbnail|
-|-----|-------|----|-----|----------|
+|——|———|——|——|—————|
 |Churamiti maridadi|CR|http://dx.doi.org/10.1080/21564574.2002.9635467|2002||
 |Phrynopus kauneorum|CR|http://dx.doi.org/10.2307/1565993|2002||
 |Leptodactylus silvanimbus|CR|http://dx.doi.org/10.2307/1563691|1980-10-31Z||
@@ -62,10 +62,10 @@ ORDER BY ASC(?status)
 |Rhacophorus catamitus|DD|http://dx.doi.org/10.1655/0733-1347(2002)016[0046:NAPKPF]2.0.CO;2|2002||
 |Huia melasma|DD|http://dx.doi.org/10.1643/CH-04-137R3|2005||
 |Amolops bellulus|DD|http://dx.doi.org/10.1643/0045-8511(2000)000[0536:ABANSO]2.0.CO;2|2000||
-|Boophis periegetes|DD|http://dx.doi.org/10.1111/j.1096-3642.1995.tb01427.x|1995-12-28Z|http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Boophis_periegetes.jpg/200px-Boophis_periegetes.jpg|
+|Boophis periegetes|DD|http://dx.doi.org/10.1111/j.1096-3642.1995.tb01427.x|1995-12-28Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Boophis_periegetes.jpg/200px-Boophis_periegetes.jpg|
 |Boophis liami|DD|http://dx.doi.org/10.1163/156853803322440772|2003-07-01Z||
 |Telmatobius vilamensis|DD|http://dx.doi.org/10.1655/0018-0831(2003)059[0253:ANSOTA]2.0.CO;2|2003||
-|Proceratophrys cururu|DD|http://dx.doi.org/10.2307/1447712|1998-02-03Z|http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Proceratophrys_cururu.jpg/200px-Proceratophrys_cururu.jpg|
+|Proceratophrys cururu|DD|http://dx.doi.org/10.2307/1447712|1998-02-03Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Proceratophrys_cururu.jpg/200px-Proceratophrys_cururu.jpg|
 |Proceratophrys concavitympanum|DD|http://dx.doi.org/10.2307/1565412|2000||
 |Phrynopus bufoides|DD|http://dx.doi.org/10.1643/CH-04-278R2|2005||
 |Phrynopus pesantesi|DD|http://dx.doi.org/10.1643/CH-04-278R2|2005||
@@ -88,20 +88,20 @@ ORDER BY ASC(?status)
 |Eleutherodactylus amplinympha|EN|http://dx.doi.org/10.1139/z94-297|1994||
 |Plectrohyla glandulosa|EN|http://dx.doi.org/10.2307/1441046|1964-06-30Z||
 |Cochranella mache|EN|http://dx.doi.org/10.1655/03-74|2004||
-|Bufo tacanensis|EN|http://dx.doi.org/10.2307/1439700|1952-09-26Z|http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bufo_tacanensis_distribution.svg/200px-Bufo_tacanensis_distribution.svg.png|
+|Bufo tacanensis|EN|http://dx.doi.org/10.2307/1439700|1952-09-26Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bufo_tacanensis_distribution.svg/200px-Bufo_tacanensis_distribution.svg.png|
 |Arthroleptis nikeae|EN|http://dx.doi.org/10.1080/21564574.2003.9635486|2003||
 |Philautus aurifasciatus|LC|http://dx.doi.org/10.1163/156853887X00036|1987-01-01Z||
 |Rana yavapaiensis|LC|http://dx.doi.org/10.2307/1445338|1984-12-18Z||
 |Uperoleia inundata|LC|http://dx.doi.org/10.1071/AJZS079|1981||
-|Gephyromantis boulengeri|LC|http://dx.doi.org/10.1111/j.1096-3642.1919.tb02128.x|1919-12-21Z|http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mantidactylus_boulengeri_map-fr.svg/200px-Mantidactylus_boulengeri_map-fr.svg.png|
-|Mantidactylus argenteus|LC|http://dx.doi.org/10.1111/j.1096-3642.1919.tb02128.x|1919-12-21Z|http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mantidactylus_argenteus02.jpg/200px-Mantidactylus_argenteus02.jpg|
-|Boophis lichenoides|LC|http://dx.doi.org/10.1163/156853898X00025|1998-01-01Z|http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Boophis_lichenoides01.jpg/200px-Boophis_lichenoides01.jpg|
-|Aglyptodactylus securifer|LC|http://dx.doi.org/10.1111/j.1439-0469.1998.tb00775.x|1998-03-27Z|http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Aglyptodactylus_securifer.jpg/200px-Aglyptodactylus_securifer.jpg|
+|Gephyromantis boulengeri|LC|http://dx.doi.org/10.1111/j.1096-3642.1919.tb02128.x|1919-12-21Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mantidactylus_boulengeri_map-fr.svg/200px-Mantidactylus_boulengeri_map-fr.svg.png|
+|Mantidactylus argenteus|LC|http://dx.doi.org/10.1111/j.1096-3642.1919.tb02128.x|1919-12-21Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mantidactylus_argenteus02.jpg/200px-Mantidactylus_argenteus02.jpg|
+|Boophis lichenoides|LC|http://dx.doi.org/10.1163/156853898X00025|1998-01-01Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Boophis_lichenoides01.jpg/200px-Boophis_lichenoides01.jpg|
+|Aglyptodactylus securifer|LC|http://dx.doi.org/10.1111/j.1439-0469.1998.tb00775.x|1998-03-27Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Aglyptodactylus_securifer.jpg/200px-Aglyptodactylus_securifer.jpg|
 |Leptobrachium nigrops|LC|http://dx.doi.org/10.2307/1440966|1963-12-31Z||
 |Megistolotis lignarius|LC|http://dx.doi.org/10.1071/ZO9790135|1979||
-|Proceratophrys avelinoi|LC|http://dx.doi.org/10.1163/156853893X00156|1993-01-01Z|http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Proceratophrys_avelinoi.jpg/200px-Proceratophrys_avelinoi.jpg|
+|Proceratophrys avelinoi|LC|http://dx.doi.org/10.1163/156853893X00156|1993-01-01Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Proceratophrys_avelinoi.jpg/200px-Proceratophrys_avelinoi.jpg|
 |Crossodactylus caramaschii|LC|http://dx.doi.org/10.2307/1446907|1995-05-03Z||
-|Pseudis cardosoi|LC|http://dx.doi.org/10.1163/156853800507264|2000-03-01Z|http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Podonectes_cardosoi.jpg/200px-Podonectes_cardosoi.jpg|
+|Pseudis cardosoi|LC|http://dx.doi.org/10.1163/156853800507264|2000-03-01Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Podonectes_cardosoi.jpg/200px-Podonectes_cardosoi.jpg|
 |Pseudis tocantins|LC|http://dx.doi.org/10.1590/S0101-81751998000400011|1998||
 |Osteocephalus mutabor|LC|http://dx.doi.org/10.1163/156853802320877609|2002-01-01Z||
 |Osteocephalus deridens|LC|http://dx.doi.org/10.1163/156853800507525|2000-07-01Z||
@@ -114,8 +114,8 @@ ORDER BY ASC(?status)
 |Ansonia endauensis|NE|http://dx.doi.org/10.1655/0018-0831(2006)62[466:ANSOAS]2.0.CO;2|2006||
 |Arthroleptella landdrosia|NT|http://dx.doi.org/10.2307/1565359|2000||
 |Phrynobatrachus phyllophilus|NT|http://dx.doi.org/10.2307/1565925|2002||
-|Litoria jungguy|NT|http://dx.doi.org/10.1071/ZO02069|2004|http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Litoria_jungguy.jpg/200px-Litoria_jungguy.jpg|
-|Spicospina flammocaerulea|VU|http://dx.doi.org/10.2307/1447757|1997-05-13Z|http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Spicospina_distribution.png/200px-Spicospina_distribution.png|
+|Litoria jungguy|NT|http://dx.doi.org/10.1071/ZO02069|2004|!http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Litoria_jungguy.jpg/200px-Litoria_jungguy.jpg|
+|Spicospina flammocaerulea|VU|http://dx.doi.org/10.2307/1447757|1997-05-13Z|!http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Spicospina_distribution.png/200px-Spicospina_distribution.png|
 |Philautus ingeri|VU|http://dx.doi.org/10.1163/156853887X00036|1987-01-01Z||
 |Phrynobatrachus uzungwensis|VU|http://dx.doi.org/10.1163/156853883X00030|1983-01-01Z||
 |Boophis sambirano|VU|http://dx.doi.org/10.1080/21564574.2005.9635520|2005||
@@ -127,6 +127,6 @@ ORDER BY ASC(?status)
 |Cycloramphus acangatan|VU|http://dx.doi.org/10.1655/02-78|2003||
 |Hyperolius cystocandicans|VU|http://dx.doi.org/10.2307/1443911|1977-05-25Z||
 |Ansonia torrentis|VU|http://dx.doi.org/10.1163/156853883X00021|1983-01-01Z||
-|Leiopelma pakeka|VU|http://dx.doi.org/10.1080/03014223.1998.9517554|1998|http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Leiopelma_pakeka01.jpg/200px-Leiopelma_pakeka01.jpg|
+|Leiopelma pakeka|VU|http://dx.doi.org/10.1080/03014223.1998.9517554|1998|!http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Leiopelma_pakeka01.jpg/200px-Leiopelma_pakeka01.jpg|
 |Rana okaloosae|VU|http://dx.doi.org/10.2307/1444847|1985-05-03Z|
 
